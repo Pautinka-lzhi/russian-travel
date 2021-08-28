@@ -1,0 +1,27 @@
+.cover__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  text-decoration-line: none;
+}
+
+.cover__item:before {
+  content: "";
+  display: block;
+  background-color: #2A2C2F;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+}
+
+.cover__item:hover::before {
+  background: #2A2C2F;
+  opacity: .8;
+}
