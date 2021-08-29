@@ -27,4 +27,4 @@
 Гриды
 
 **Сылка на GitHub Pages**
-Флекс-бокс
+https://pautinka-lzhi.github.io/russian-travel/index.html
