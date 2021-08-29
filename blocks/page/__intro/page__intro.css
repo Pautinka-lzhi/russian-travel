@@ -1,26 +1,26 @@
 .page__intro {
-    max-width: 984px;
-    margin: auto;
-    margin-top: 92px;
-  }
+  max-width: 984px;
+  margin: auto;
+  margin-top: 92px;
+}
   
-  @media screen and (max-width: 1024px) {
-   .page__intro {
-    max-width: 928px;
-    margin-top: 92px;
-   }
-  }
+@media screen and (max-width: 1024px) {
+.page__intro {
+  max-width: 928px;
+  margin-top: 92px;
+}
+}
   
-  @media screen and (max-width: 768px) {
-    .page__intro {
-     max-width: 720px;
-     margin-top: 88px;
-   }
-  }
+@media screen and (max-width: 768px) {
+.page__intro {
+  max-width: 720px;
+  margin-top: 88px;
+}
+}
   
-  @media screen and (max-width: 320px) {
-   .page__intro {
-    max-width: 288px;
-    margin-top: 64px;
-   }
-  }
+@media screen and (max-width: 320px) {
+.page__intro {
+  max-width: 288px;
+  margin-top: 64px;
+}
+}
