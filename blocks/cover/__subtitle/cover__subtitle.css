@@ -9,20 +9,20 @@
   max-width: 360px;
   text-align: center;
 }
-  
+
 @media screen and (max-width: 520px) {
-.cover__subtitle {
-  font-size: 16px;
-  line-height: 18px;
-  padding-left: 10px;
-  padding-right: 10px;
+  .cover__subtitle {
+    font-size: 16px;
+    line-height: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
-}
-  
+
 @media screen and (max-width: 320px) {
-.cover__subtitle {
-  font-size: 14px;
-  line-height: 16px;
-  max-width: 288px;
-}
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 16px;
+    max-width: 288px;
+  }
 }

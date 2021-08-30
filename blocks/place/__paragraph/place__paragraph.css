@@ -6,17 +6,17 @@
 }
 
 @media screen and (max-width: 768px) {
-.place__paragraph {
-  font-size: 16px;
-  line-height: 163%;
-}
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 163%;
+  }
 }
 
 @media screen and (max-width: 320px) {
-.place__paragraph {
-  margin-left: 16px;
-  margin-right: 16px;
-}
+  .place__paragraph {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
 }
 
 .place__paragraph:last-child {
@@ -24,7 +24,7 @@
 }
 
 @media screen and (max-width: 768px) {
-.place__paragraph:last-child {
-  margin-top: 25px;
-}
+  .place__paragraph:last-child {
+    margin-top: 25px;
+  }
 }

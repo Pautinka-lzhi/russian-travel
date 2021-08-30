@@ -5,15 +5,14 @@
   text-decoration: none;
   margin-right: 18px;
 }
-  
+
 @media screen and (max-width: 320px) {
-.lang__link {
-  font-size: 18px;
-  line-height: 20px;
+  .lang__link {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }
-}
-  
-  
+
 .lang__link:last-of-type {
   margin-right: 0;
 }

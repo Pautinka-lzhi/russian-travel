@@ -3,15 +3,15 @@
   margin: auto;
   margin-top: 92px;
 }
-   
+
 @media screen and (max-width: 768px) {
-.page__cover {
-  margin-top: 90px;
+  .page__cover {
+    margin-top: 90px;
+  }
 }
-}
-   
+
 @media screen and (max-width: 320px) {
-.page__cover {
-  margin-top: 66px;
-}
+  .page__cover {
+    margin-top: 66px;
+  }
 }

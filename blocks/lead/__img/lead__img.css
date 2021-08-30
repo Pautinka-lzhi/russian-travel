@@ -4,15 +4,15 @@
   margin: 0 auto;
   margin-top: 64px;
 }
-  
+
 @media screen and (max-width: 1024px) {
-.lead__img {
-  margin-top: 56px;
+  .lead__img {
+    margin-top: 56px;
+  }
 }
-}
-  
+
 @media screen and (max-width: 320px) {
-.lead__img {
-  margin-top: 40px;
+  .lead__img {
+    margin-top: 40px;
+  }
 }
-}  

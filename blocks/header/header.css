@@ -4,9 +4,9 @@
   align-items: flex-end;
   min-height: 80px;
 }
-  
+
 @media screen and (max-width: 320px) {
-.header {
-  min-height: 58px;
+  .header {
+    min-height: 58px;
+  }
 }
-}  

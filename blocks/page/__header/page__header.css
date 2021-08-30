@@ -2,21 +2,21 @@
   max-width: 1184px;
   margin: auto;
 }
-  
+
 @media screen and (max-width: 1024px) {
-.page__header {
-  max-width: 928px;
+  .page__header {
+    max-width: 928px;
+  }
 }
-}
-  
+
 @media screen and (max-width: 768px) {
-.page__header {
-  max-width: 720px;
+  .page__header {
+    max-width: 720px;
+  }
 }
-}
-  
+
 @media screen and (max-width: 320px) {
-.page__header {
-  max-width: 288px;
-}
+  .page__header {
+    max-width: 288px;
+  }
 }
