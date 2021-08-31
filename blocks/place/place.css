@@ -14,9 +14,15 @@
 
 @media screen and (max-width: 950px) {
   .place {
-    grid-template-columns: 320px 1fr;
+    grid-template-columns: 340px 1fr;
     gap: 48px 28px;
     padding-top: 73px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .place {
+    grid-template-columns: 300px 1fr;
   }
 }
 
